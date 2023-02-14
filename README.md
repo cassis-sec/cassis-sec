@@ -22,5 +22,8 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/cassis)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927.svg?logo=Hack%20The%20Box&logoColor=#9FEF00)](https://app.hackthebox.com/users/274695)
 
+# 🥅 GitHub Goals
+<img width="113" alt="Quickdraw" src="https://user-images.githubusercontent.com/68501230/218776286-e3e67272-72a7-49b6-ad36-3023f82120cf.png">
+
 # 📫 Contacts
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC.svg?logo=ProtonMail&logoColor=white)](mailto:davide.bernacchia@protonmail.com?subject=Hello%20Friend)
