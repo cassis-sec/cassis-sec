@@ -23,7 +23,8 @@
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927.svg?logo=Hack%20The%20Box&logoColor=#9FEF00)](https://app.hackthebox.com/users/274695)
 
 # 🥅 GitHub Goals
-<img width="113" alt="Quickdraw" src="https://user-images.githubusercontent.com/68501230/218776286-e3e67272-72a7-49b6-ad36-3023f82120cf.png">
+<img width="83" alt="Quickdraw" src="https://user-images.githubusercontent.com/68501230/218776286-e3e67272-72a7-49b6-ad36-3023f82120cf.png">
 
 # 📫 Contacts
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC.svg?logo=ProtonMail&logoColor=white)](mailto:davide.bernacchia@protonmail.com?subject=Hello%20Friend)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC.svg?logo=ProtonMail&logoColor=white)](mailto:davide.bernacchia@protonmail.com?subject=Hello%20Friend)
+[![OpenPGP](https://img.shields.io/badge/OpenPGP-0093DD.svg?logo=GNU%20Privacy%20Guard&logoColor=white)](https://keys.openpgp.org/vks/v1/by-fingerprint/5B1035B6A0DE95A9C6F9B626AF09E7EBC273A18E)
