@@ -1,7 +1,6 @@
 # cassis@pwnbox:~$ whoami
 * I am 22 years old and live in Rome
 * Cyber Security Analyst & ~~Security Researcher~~
-* Self-taught
 
 ![Full Metal Alchemist](https://media.tenor.com/FuL3EYm87LgAAAAd/fullmetal-alchemist-edward-elric.gif)
 
