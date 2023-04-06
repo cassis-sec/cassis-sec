@@ -19,13 +19,12 @@ Date | CVE ID | Description
 ---- | ---- | ----
 05/04/2023 | CVE-2023-26845 | A Cross-Site Request Forgery (CSRF) in OpenCATS 0.9.7 allows attackers to force users into submitting web requests via unspecified vectors.
 05/04/2023 | CVE-2023-26846 | A stored Cross-Site Scripting (XSS) vulnerability in OpenCATS v0.9.7 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the city parameter at opencats/index.php?m=candidates.
-05/04/2023 | CVE-2023-26845 | A stored Cross-Site Scripting (XSS) vulnerability in OpenCATS v0.9.7 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the state parameter at opencats/index.php?m=candidates.
+05/04/2023 | CVE-2023-26847 | A stored Cross-Site Scripting (XSS) vulnerability in OpenCATS v0.9.7 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the state parameter at opencats/index.php?m=candidates.
 
 # 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/davidebernacchia)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=Twitter&logoColor=white)](URL_PROFILE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub&logoColor=white)](https://github.com/cassis-sec)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649.svg?logo=HackerOne&logoColor=white)](https://hackerone.com/cassis?type=user)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42.svg?logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/cassis)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927.svg?logo=Hack%20The%20Box&logoColor=#9FEF00)](https://app.hackthebox.com/users/274695)
 
