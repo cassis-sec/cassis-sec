@@ -4,8 +4,6 @@
 
 ![Full Metal Alchemist](https://media.tenor.com/FuL3EYm87LgAAAAd/fullmetal-alchemist-edward-elric.gif)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cassis-sec&count_private=true)
-
 # ⚡Technologies
 ![Parrot](https://img.shields.io/badge/OS-Parrot-blue)
 ![Splunk](https://img.shields.io/badge/SIEM-Splunk-65a637)
@@ -29,6 +27,8 @@ Date | CVE ID | Description
 
 # 🥅 GitHub Goals
 <img width="83" alt="Quickdraw" src="https://user-images.githubusercontent.com/68501230/218776286-e3e67272-72a7-49b6-ad36-3023f82120cf.png">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=cassis-sec&count_private=true)
 
 # 📫 Contacts
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC.svg?logo=ProtonMail&logoColor=white)](mailto:davide.bernacchia@protonmail.com?subject=Hello%20Friend)
